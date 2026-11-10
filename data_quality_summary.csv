@@ -1,0 +1,3 @@
+city,original_rows,clean_rows,duplicates_removed,missing_price_rows,missing_price_pct,unique_hosts,unique_neighbourhoods,invalid_availability_after_cleaning
+New Orleans,7263,7263,0,1073,14.77,3208,70,0
+Chicago,8695,8695,0,1243,14.3,3635,76,0
